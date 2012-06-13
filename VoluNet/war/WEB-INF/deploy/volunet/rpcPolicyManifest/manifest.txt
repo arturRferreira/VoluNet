@@ -1,0 +1,3 @@
+# Module volunet
+# RPC service class, partial path of RPC policy file
+volunet.client.GreetingService, BC12DF3B19756F81A8EB6E18B64B5E77.gwt.rpc
